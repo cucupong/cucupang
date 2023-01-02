@@ -1,7 +1,7 @@
-# cucupang
-Portpolio
+# cucupang Portpolio
 
-1. Spursell https://www.spursell.com<br><br>
+### 2019.04 ~ 현재
+1. Spursell https://www.spursell.com<br>
 스퍼셀의 개발 환경 구성 (AWS, Github, PHP, Codeigniter)<br>
 EC2 인스턴스로 웹서버 및 배포환경 구성(Ubuntu, Apache)<br>
 RDS 인스턴스(MySQL)로 DB 구성<br>
@@ -19,7 +19,7 @@ PHP Codeigniter로 소스코드 프로젝트 작성 및 관리<br>
 재무회계 모듈 개발<br>
 각종 대시보드 및 리포트 화면 개발<br><br>
 
-2. Hypefashion https://hypefashion.kr<br><br>
+2. Hypefashion https://hypefashion.kr<br>
 하입패션의 개발환경 구성 (AWS, Github, Docker, Python, Django)<br>
 EC2 인스턴스로 웹서버 구성(Ubuntu, Nginx)<br>
 RDS 인스턴스(PostgreSQL)로 DB 구성<br>
@@ -29,6 +29,24 @@ Github의 private repository로 소스코드 관리하고, 협업 환경 구성<
 Docker 로 배포환경 구성<br>
 Python3 Django로 소스코드 프로젝트 작성 및 관리<br>
 하입패션의 기본 구조 설계 및 개발/구현<br>
-이커머스 판매채널(온라인 쇼핑몰)의 모든 필요 기능 개발<br>
- 
- 
+이커머스 판매채널(온라인 쇼핑몰)의 모든 필요 기능 개발<br><br>
+
+### 2019.10 ~ 2019.12
+3. 봄빛산부인과 http://bombit.or.kr<br>
+봄빛산부인과의 개발환경 구성 (MS SERVER, SFTP, ASP, MS-SQL)<br>
+프론트 환경(Bootstrap, HTML5), 백앤드 (asp, ms-sql)<br>
+병원 실시간 예약 조회 및 시스템 구축 (관리자 구성)<br>
+
+### 2017.07 ~ 2019.03
+4. EBS 고교강의 프로젝트 https://www.ebsi.co.kr<br>
+EBS 고교강의 포탈 기획 PL<br>
+서비스 기획, 컨텐츠 기획, 통계, 데이터, 운영 관리<br>
+PC, 모바일 웹 리뉴얼 2회 기획<br><br>
+
+### 2015.09 ~ 2016.07
+5. TNT 해외직구 쇼핑몰
+TNT해외직구쇼핑몰 개발환경 구성 (PHP, MYSQL, LINUX, 유분투)
+영문, 중문, 일문, 국문 언어로 프론트 구축 (GCP Translate 사용)
+실시간 환율 적용 (Rest Api, Crawling)
+
+###
