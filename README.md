@@ -49,25 +49,25 @@ EBS 고교강의 포탈 기획 PL<br>
 PC, 모바일 웹 리뉴얼 2회 기획<br><br>
 
 ### 2015.09 ~ 2016.07 (엠인사이트)
-5. TNT 해외직구 쇼핑몰
-TNT해외직구쇼핑몰 개발환경 구성 (PHP, MYSQL, LINUX, 유분투)
-영문, 중문, 일문, 국문 언어로 프론트 구축 (GCP Translate 사용)
-실시간 환율 적용 (Rest Api, Crawling)
+5. TNT 해외직구 쇼핑몰<br>
+TNT해외직구쇼핑몰 개발환경 구성 (PHP, MYSQL, LINUX, 유분투)<br>
+영문, 중문, 일문, 국문 언어로 프론트 구축 (GCP Translate 사용)<br>
+실시간 환율 적용 (Rest Api, Crawling)<br>
 
 ### 2010.05 ~ 2015.05 (프리랜서)
-6. 연세직업전문학교 웹사이트 개발 (기획, 프론트, 백앤드 진행)
-7. Sunny Day Tour 여행 예약 웹사이트 개발 (프론트, 백앤드 진행)
-8. Pos Mall 웹사이트 퍼블리싱 
-9. Sk Telecom 스마트세일즈 퍼블리싱
-10. 한국도로공사 전기시설물원격관리시스템 프론트개발
-50여개 웹사이트 개발 및 리뉴얼
+6. 연세직업전문학교 웹사이트 개발 (기획, 프론트, 백앤드 진행)<br>
+7. Sunny Day Tour 여행 예약 웹사이트 개발 (프론트, 백앤드 진행)<br>
+8. Pos Mall 웹사이트 퍼블리싱 <br>
+9. Sk Telecom 스마트세일즈 퍼블리싱<br>
+10. 한국도로공사 전기시설물원격관리시스템 프론트개발<br>
+50여개 웹사이트 개발 및 리뉴얼<br><br>
 
 ### 2006.01 ~ 2010.04 (IDRGROUP)
-11. 암웨이 페밀리 사이트 개발 및 운영 (ASP, ASP.NET, C# VS, MS-SQL, MS-SERVER)
-ABN KOREA 암웨이코리아 https://www.amway.co.kr 사이트 유지 보수 및 관련 사이트 개발 운영
-UCC 동영상 모듈 개발 (FFMPEG For Window)
-웹에이젼씨로써 100여개의 사이트 유지보수 개발 및 리뉴얼
+11. 암웨이 페밀리 사이트 개발 및 운영 (ASP, ASP.NET, C# VS, MS-SQL, MS-SERVER)<br>
+ABN KOREA 암웨이코리아 https://www.amway.co.kr 사이트 유지 보수 및 관련 사이트 개발 운영<br>
+UCC 동영상 모듈 개발 (FFMPEG For Window)<br>
+웹에이젼시 회사 / 100여개의 사이트 유지보수 개발 및 리뉴얼<br><br>
 
 ### 2001.07 ~ 2004.01 (Internet Communications)
-12. 인터넷 채팅, 화상 채팅 모듈 개발 및 웹사이트 개발 (ASP, MS-SQL, VB, MS-SERVER)
-병역특례로 입사한 회사로 선박 및 무선 FAX TELNET 위주로 관련 웹사이트 개발 진행하여 채팅, 화상채팅 위주로 사업
+12. 인터넷 채팅, 화상 채팅 모듈 개발 및 웹사이트 개발 (ASP, MS-SQL, VB, MS-SERVER)<br>
+병역특례로 입사한 회사로 선박 및 무선 FAX TELNET 위주로 관련 웹사이트 개발 진행하여 채팅, 화상채팅 위주로 사업<br><br>
