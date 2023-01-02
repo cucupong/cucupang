@@ -60,14 +60,17 @@ TNT해외직구쇼핑몰 개발환경 구성 (PHP, MYSQL, LINUX, 유분투)<br>
 8. Pos Mall 웹사이트 퍼블리싱 <br>
 9. Sk Telecom 스마트세일즈 퍼블리싱<br>
 10. 한국도로공사 전기시설물원격관리시스템 프론트개발<br>
-50여개 웹사이트 개발 및 리뉴얼<br><br>
+11. 산지애 쇼핑몰 프론트 개발 등 50여개 웹사이트 개발 및 리뉴얼<br><br>
 
 ### 2006.01 ~ 2010.04 (IDRGROUP)
-11. 암웨이 페밀리 사이트 개발 및 운영 (ASP, ASP.NET, C# VS, MS-SQL, MS-SERVER)<br>
+12. 암웨이 페밀리 사이트 개발 및 운영 (ASP, ASP.NET, C# VS, MS-SQL, MS-SERVER)<br>
 ABN KOREA 암웨이코리아 https://www.amway.co.kr 사이트 유지 보수 및 관련 사이트 개발 운영<br>
 UCC 동영상 모듈 개발 (FFMPEG For Window)<br>
-웹에이젼시 회사 / 100여개의 사이트 유지보수 개발 및 리뉴얼<br><br>
+13. 한국도로공사 Flex, Flash 개발<br>
+14. SK 텔레콤 인식기반검색서비스 개발 (Flex, ASP)
+15. SK 텔레콤 맵시 기획 및 프론트 개발
+16. 세종 호텔, 프레지던트 호텔, 대웅제약, 보톡스코리아 등 웹에이젼시 회사이므로 100여개의 사이트 유지보수 개발 및 리뉴얼<br><br>
 
 ### 2001.07 ~ 2004.01 (Internet Communications)
-12. 인터넷 채팅, 화상 채팅 모듈 개발 및 웹사이트 개발 (ASP, MS-SQL, VB, MS-SERVER)<br>
+17. 인터넷 채팅, 화상 채팅 모듈 개발 및 웹사이트 개발 (ASP, MS-SQL, VB, MS-SERVER)<br>
 병역특례로 입사한 회사로 선박 및 무선 FAX TELNET 위주로 관련 웹사이트 개발 진행하여 채팅, 화상채팅 위주로 사업<br><br>
