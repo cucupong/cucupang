@@ -60,11 +60,13 @@ TNT해외직구쇼핑몰 개발환경 구성 (PHP, MYSQL, LINUX, 유분투)
 8. Pos Mall 웹사이트 퍼블리싱 
 9. Sk Telecom 스마트세일즈 퍼블리싱
 10. 한국도로공사 전기시설물원격관리시스템 프론트개발
+50여개 웹사이트 개발 및 리뉴얼
 
 ### 2006.01 ~ 2010.04 (IDRGROUP)
 11. 암웨이 페밀리 사이트 개발 및 운영 (ASP, ASP.NET, C# VS, MS-SQL, MS-SERVER)
 ABN KOREA 암웨이코리아 https://www.amway.co.kr 사이트 유지 보수 및 관련 사이트 개발 운영
 UCC 동영상 모듈 개발 (FFMPEG For Window)
+웹에이젼씨로써 100여개의 사이트 유지보수 개발 및 리뉴얼
 
 ### 2001.07 ~ 2004.01 (Internet Communications)
 12. 인터넷 채팅, 화상 채팅 모듈 개발 및 웹사이트 개발 (ASP, MS-SQL, VB, MS-SERVER)
