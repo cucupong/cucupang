@@ -33,8 +33,8 @@ Python3 Django 프레임워크로 프로젝트 작성 및 관리<br>
 Spursell 상품 연동 시 자동으로 하입패션에 상품 연동 (Rest API)<br>
 특정 상품 실시간 싱크 (타 사이트 상품 연동)<br>
 토스 및 사이버소스 결제 모듈 연동<br>
-검색엔진(Elastic Search)적용<br><br>
-해외명품쇼핑몰의 필요한 기능 개발<br> 
+검색엔진(Elastic Search)적용<br>
+해외명품쇼핑몰의 필요한 기능 개발<br><br>
 
 ### 2019.10 ~ 2019.12 (프리랜서)
 3. 봄빛산부인과 http://bombit.or.kr<br>
