@@ -41,7 +41,7 @@ Ubuntu 15.04 -> 21.04 변경<br>
 AWS Redis Cache 적용<br>
 해외명품쇼핑몰의 필요한 기능 개발<br><br>
 공통<br>
-커뮤니케이션 및 워크플랜 : Slack, Notion 이용<br><br>
+커뮤니케이션 및 워크플랜 : Slack, Notion 사용<br><br>
 
 
 ### 2019.10 ~ 2019.12 (프리랜서)
