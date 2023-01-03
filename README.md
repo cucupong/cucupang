@@ -34,6 +34,10 @@ Spursell 상품 연동 시 자동으로 하입패션에 상품 연동 (Rest API)
 특정 상품 실시간 싱크 (타 사이트 상품 연동)<br>
 토스 및 사이버소스 결제 모듈 연동<br>
 검색엔진(Elastic Search)적용<br>
+장고(Django) 1.97 -> 4.11 변경<br>
+BootStrap3 -> BootStrap5 변경<br>
+Python 2.7 -> Python 3.10 변경<br>
+Ubuntu 15.04 -> 21.04 변경<br>
 해외명품쇼핑몰의 필요한 기능 개발<br><br>
 
 ### 2019.10 ~ 2019.12 (프리랜서)
