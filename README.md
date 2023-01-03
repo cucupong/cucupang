@@ -38,7 +38,11 @@ Spursell 상품 연동 시 자동으로 하입패션에 상품 연동 (Rest API)
 BootStrap3 -> BootStrap5 변경<br>
 Python 2.7 -> Python 3.10 변경<br>
 Ubuntu 15.04 -> 21.04 변경<br>
+AWS Redis Cache 적용<br>
 해외명품쇼핑몰의 필요한 기능 개발<br><br>
+공통<br>
+커뮤니케이션 및 워크플랜 : Slack, Notion 이용<br><br>
+
 
 ### 2019.10 ~ 2019.12 (프리랜서)
 3. 봄빛산부인과 http://bombit.or.kr<br>
