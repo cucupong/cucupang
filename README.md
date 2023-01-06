@@ -30,7 +30,7 @@ GCP API 번역, 세계 주소, 지도 연동
 2. Hypefashion https://hypefashion.kr<br>
 하입패션의 개발환경 구성 (Python, Django)<br>
 AWS EC2 인스턴스로 웹서버 구성(Ubuntu, Nginx)<br>
-Gitub 배포 후 다시 Docker로 배포환경 구성 (Github, Amazon Elastic Container Registry)<br>
+Gitub, Docker로 배포환경 구성 (Github, Amazon Elastic Container Registry)<br>
 RDS 인스턴스로 DB 구성<br>
 STATIC, MEDIA 업로드 저장 장소는 S3 Manifest 환경 구성<br>
 Route53으로 도메인, SSL, 메일, 포워딩 관리 구성<br>
