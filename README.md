@@ -18,8 +18,12 @@ PHP Codeigniter 프레임워크로 프로젝트 작성 및 관리<br>
 정산관리 모듈 개발<br>
 셀러의 정산 요청, 지급처리, 지급내역 관리, 등에 대한 각종 화면과 기능 개발<br>
 각종 대시보드 및 리포트 화면 개발<br>
-유명 해외브랜드 사이트들을 크롤링하여 자동으로 상품 등록 후 연동하는 모듈 개발<br> 
+유명 해외브랜드 사이트들을 스크래핑하여 자동으로 상품 등록 후 연동하는 모듈 개발<br> 
 각 브랜드 별로 상품 가격 차별 적용되는 알고리즘 개발<br>
+rest-api 설계 및 하입패션 연동<br> 
+쇼피파이api (graphql ) 연동<br>
+샵링커 api (xml) 연동<br>
+파트너라이즈 api (xml) 연동<br><br>
 
 2. Hypefashion https://hypefashion.kr<br>
 하입패션의 개발환경 구성 (Python, Django)<br>
@@ -33,6 +37,7 @@ Python3 Django 프레임워크로 프로젝트 작성 및 관리<br>
 Spursell 상품 연동 시 자동으로 하입패션에 상품 연동 (Rest API)<br>
 특정 상품 실시간 싱크 (타 사이트 상품 연동)<br>
 토스 및 사이버소스 결제 모듈 연동<br>
+rest api 설계 및 스퍼셀 연동<br>
 검색엔진(Elastic Search)적용<br>
 장고(Django) 1.97 -> 4.11 변경<br>
 BootStrap3 -> BootStrap5 변경<br>
