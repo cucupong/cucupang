@@ -14,16 +14,18 @@ PHP Codeigniter 프레임워크로 프로젝트 작성 및 관리<br>
 상품관리, 주문관리, 셀러관리, 셀러주문, 연동 모듈 개발<br>
 상품과 주문에 대한 DB 설계 및 각종 화면과 기능 개발<br>
 하입패션과 외부 판매채널(G마켓, 11번가, 네이버 스마트스토어 등) 연동 기능 개발<br>
-각 배송사별 배송추적 기능 개발<br>
+각 배송사별 배송추적 기능 개발 (배송사별 API 또는 스크래핑)<br>
 정산관리 모듈 개발<br>
 셀러의 정산 요청, 지급처리, 지급내역 관리, 등에 대한 각종 화면과 기능 개발<br>
 각종 대시보드 및 리포트 화면 개발<br>
 유명 해외브랜드 사이트들을 스크래핑하여 자동으로 상품 등록 후 연동하는 모듈 개발<br> 
 각 브랜드 별로 상품 가격 차별 적용되는 알고리즘 개발<br>
 rest-api 설계 및 하입패션 연동<br> 
+GCP API 번역, 세계 주소, 지도 연동
 쇼피파이api (graphql ) 연동<br>
 샵링커 api (xml) 연동<br>
-파트너라이즈 api (xml) 연동<br><br>
+파트너라이즈 api (xml) 연동<br>
+배치(crontab) 적용<br><br>
 
 2. Hypefashion https://hypefashion.kr<br>
 하입패션의 개발환경 구성 (Python, Django)<br>
@@ -44,7 +46,8 @@ BootStrap3 -> BootStrap5 변경<br>
 Python 2.7 -> Python 3.10 변경<br>
 Ubuntu 15.04 -> 21.04 변경<br>
 AWS Redis Cache 적용<br>
-해외명품쇼핑몰의 필요한 기능 개발<br><br>
+해외명품쇼핑몰의 필요한 기능 개발<br>
+배치(crontab) 적용<br><br>
 공통<br>
 커뮤니케이션 및 워크플랜 : Slack, Notion 사용<br><br>
 
