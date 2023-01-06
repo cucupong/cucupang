@@ -21,7 +21,7 @@ PHP Codeigniter 프레임워크로 프로젝트 작성 및 관리<br>
 유명 해외브랜드 사이트들을 스크래핑하여 자동으로 상품 등록 후 연동하는 모듈 개발<br> 
 각 브랜드 별로 상품 가격 차별 적용되는 알고리즘 개발<br>
 rest-api 설계 및 하입패션 연동<br> 
-GCP API 번역, 세계 주소, 지도 연동
+GCP API 번역, 세계 주소, 지도 연동<br>
 쇼피파이api (graphql ) 연동<br>
 샵링커 api (xml) 연동<br>
 파트너라이즈 api (xml) 연동<br>
