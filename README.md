@@ -50,7 +50,7 @@ AWS Redis Cache 적용<br>
 배치(crontab) 적용<br><br>
 공통<br>
 커뮤니케이션 및 워크플랜 : Slack, Notion 사용<br><br>
-
+기획 : ppt, figma 사용
 
 ### 2019.10 ~ 2019.12 (프리랜서)
 3. 봄빛산부인과 http://bombit.or.kr<br>
